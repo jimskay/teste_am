@@ -1,0 +1,7 @@
+
+Exemplo de chamadas no prompt para cada um dos arquivos dos exercicios correspondentes:
+
+php teste_prova.php arquivo.txt para obter um quadrado perfeito
+php teste_prova.php quadrado.txt para o do teste
+php teste_prova2.php produtos.txt
+php teste_prova2b.php 8080
